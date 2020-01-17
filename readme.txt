@@ -6,8 +6,11 @@ first changes. commit merged changes.
 found mistakes in stage index.
 git diff [版本] filename.当前fildname与[版本]的进行比较。
 
------------dev-------------
+-----------feature1-------------
 Creating a new branch is quick and simple.
 
------------feature1------------
+-----------dev------------
 Creating a new branch is quick and simple.
+
+-----------dev1-------------
+exchange,dev<->feature1
