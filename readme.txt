@@ -8,3 +8,6 @@ git diff [版本] filename.当前fildname与[版本]的进行比较。
 
 -----------dev-------------
 Creating a new branch is quick and simple.
+
+-----------feature1------------
+Creating a new branch is quick and simple.
