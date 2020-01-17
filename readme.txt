@@ -1,3 +1,4 @@
+-----------------------------
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutbale index called stage.
@@ -14,3 +15,6 @@ Creating a new branch is quick and simple.
 
 -----------dev1-------------
 exchange,dev<->feature1
+
+-----------dev2-------------
+git stash,保存工作现场
