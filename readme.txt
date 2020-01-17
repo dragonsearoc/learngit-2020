@@ -18,3 +18,6 @@ exchange,dev<->feature1
 
 -----------dev2-------------
 git stash,保存工作现场
+
+-----------feature-vulcan------------
+git branch -D feature-vulcan,强行删除未合并的分支
