@@ -1,0 +1,13 @@
+#Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#Java
+*.class
+
+#ide-idea
+*.iml
+
+#My configurations:
+db.properties
